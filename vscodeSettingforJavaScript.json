@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "United Ubuntu",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "javascript.format.enable": false,
+    "prettier.eslintIntegration": true,
+}
